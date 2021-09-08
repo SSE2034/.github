@@ -1,16 +1,18 @@
-### Hi there 👋
+## Welcome to System Software Practice3 !!👋
+This is an official github account for a class. 
+All the class contents including lab and homework will be distributed through the git repository at this account. 
+Welcome to any question about any class contents or others.
+Before questioning to us, please visit to [FAQs](https://sorry_it_is_not_prepared.com), list of fequently asked questions.
 
-<!--
-**ssal-mem/ssal-mem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+## TA List 🧑‍💻
+**Name: Dong Hun Jung**
+(Email: <dounghun22@g.skku.edu>)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Name: Sang Jae Park**
+(Email: <mainpower4309@gmail.com>)
+
+**Name: Yuseok Song**
+(Email: <songys1223@gmail.com>)
