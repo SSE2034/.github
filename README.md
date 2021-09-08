@@ -7,11 +7,11 @@ Before questioning to us, please visit to [FAQs](https://sorry_it_is_not_prepare
 <br>
 
 ## TA List 🧑‍💻
-**Name: Dong Hun Jung**
+Name: **Dong Hun Jung**
 (Email: <dounghun22@g.skku.edu>)
 
-**Name: Sang Jae Park**
+Name: **Sang Jae Park**
 (Email: <mainpower4309@gmail.com>)
 
-**Name: Yuseok Song**
+Name: **Yuseok Song**
 (Email: <songys1223@gmail.com>)
