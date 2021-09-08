@@ -5,7 +5,6 @@ Welcome to any question about any class contents or others.
 Before questioning to us, please visit to [FAQs](https://sorry_it_is_not_prepared.com), list of fequently asked questions.
 
 <br>
-<br>
 
 ## TA List 🧑‍💻
 **Name: Dong Hun Jung**
