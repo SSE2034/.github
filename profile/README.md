@@ -1,12 +1,15 @@
-## Hi there 👋
+## Welcome to System Software Practice3 !!👋
+This is an official github account for a class. 
+All the class contents including lab and homework will be distributed through the git repository of this account. 
+Welcome to any question for all class contents.
+<br>
 
-<!--
+## TA List 🧑‍💻
+- **Dong Hun Jung**
+(Email: <dounghun22@g.skku.edu>)
 
-**Here are some ideas to get you started:**
+- **Sang Jae Park**
+(Email: <mainpower4309@gmail.com>)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+- **Yuseok Song**
+(Email: <songys1223@gmail.com>)
